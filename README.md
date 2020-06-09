@@ -1,1 +1,1 @@
-# logo-detection
+# logo-finder
