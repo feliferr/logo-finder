@@ -15,7 +15,7 @@ setup(name='logo_classification_model',
       license='Unlicense',
       install_requires=[
           'tensorflow-gpu==2.1.0',
-          'setuptools==46.4.0',
+          'setuptools==65.5.1',
           'pillow==7.1.2',
           'scikit-learn==0.23.1',
           'keras==2.3.1'],
