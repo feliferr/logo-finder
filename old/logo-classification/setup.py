@@ -17,6 +17,6 @@ setup(name='logo_classification_model',
           'tensorflow-gpu==2.12.0',
           'setuptools==46.4.0',
           'pillow==10.3.0',
-          'scikit-learn==0.23.1',
+          'scikit-learn==1.5.0',
           'keras==2.3.1'],
       zip_safe=False)
