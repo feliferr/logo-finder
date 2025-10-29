@@ -18,5 +18,5 @@ setup(name='logo_classification_model',
           'setuptools==46.4.0',
           'pillow==10.3.0',
           'scikit-learn==0.23.1',
-          'keras==2.3.1'],
+          'keras==3.12.0'],
       zip_safe=False)
